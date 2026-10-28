@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "python-testing-and-debugging",
+      "title": "Testing and Debugging in Python",
+      "description": "Write unittest tests, find edge cases, and debug a small Python task manager.",
+      "path": "assignments/python-testing-and-debugging",
+      "dueDate": "2026-11-04",
+      "attachments": [
+        {
+          "name": "Código inicial",
+          "file": "task_manager.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
